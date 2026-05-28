@@ -86,10 +86,6 @@ If you need byte-identical EPS output, pin these versions in
 `requirements.txt`. Otherwise the figures will look the same but EPS
 byte streams may differ across matplotlib releases.
 
-## License
-
-Released under the MIT License (see `LICENSE`).
-
 ## Citation
 
 If you use this code or adapt it, please cite the tutorial:
