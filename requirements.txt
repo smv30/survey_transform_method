@@ -1,0 +1,8 @@
+# Companion code for "Transform Method for Stochastic Processing and
+# Matching Networks" -- heavy-traffic convergence simulation.
+#
+# Minimum versions known to work. Pin tighter if you need byte-identical
+# EPS output (see README for the exact versions used to produce the
+# manuscript figures).
+numpy>=1.20
+matplotlib>=3.4
