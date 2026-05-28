@@ -54,12 +54,6 @@ Per-epsilon simulation lengths:
 | 0.05 | 128,000,000 |
 | 0.02 | 256,000,000 |
 
-The effective number of independent samples after burn-in is roughly
-$N_{\mathrm{eff}} \approx (T/2)\,\epsilon^2$, which ranges from
-$\sim 2.6 \times 10^6$ at $\epsilon = 0.2$ down to $\sim 5.1 \times 10^4$
-at $\epsilon = 0.02$ — enough to estimate the empirical tail down to
-$\sim 2 \times 10^{-5}$ for every $\epsilon$ in the figure.
-
 ## Installation
 
 Requires Python 3.9 or newer.
